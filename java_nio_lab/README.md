@@ -3,3 +3,7 @@
 [링크3](https://jongmin92.github.io/2019/03/03/Java/java-nio/)<br>
 [링크4](https://jongmin92.github.io/2019/02/28/Java/java-with-non-blocking-io/)<br>
 [링크5](https://limdongjin.github.io/concepts/blocking-non-blocking-io.html#useful-references)<br>
+[링크6](https://www.youtube.com/watch?v=prniILbdOYA)<br>
+[링크7](https://alibaba-cloud.medium.com/essential-technologies-for-java-developers-i-o-and-netty-ec765676fd21)<br>
+[링크8](https://dgahn.tistory.com/38)
+[링크9](https://hadev.tistory.com/29)
